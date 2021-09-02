@@ -1,1 +1,2 @@
 File 2: This is the 1st commit
+This is second day in project: and this is the 2nd commit
